@@ -66,12 +66,12 @@ export DEEPSEEK_API_KEY="your_api_key"
 
 ### 4. 运行实验
 ```bash   ”“bash   “bash”;“bash
-python experiments/run.pypython实验/ run.py
+python experiments/run.py
 ```
 
 ### 5. 生成分析结果
 ```bash   ”“bash   “bash”;“bash
-python run.py
+python deepseek_analysis.py
 ```
 
 ## 开发者
